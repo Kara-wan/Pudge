@@ -1,0 +1,6 @@
+framework module Pods_Pudge {
+  umbrella header "Pods-Pudge-umbrella.h"
+
+  export *
+  module * { export * }
+}
